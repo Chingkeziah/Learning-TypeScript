@@ -1,0 +1,15 @@
+{
+  "name": "typefetch",
+  "version": "1.0.0",
+  "description": "a basic api fetching to display the capabilities of typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["typescript"],
+  "author": "Ching Keziah",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
